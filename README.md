@@ -1,1 +1,1 @@
-# YBI_Internship
+# Contains the project for YBI Internship
